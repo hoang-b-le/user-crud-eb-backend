@@ -3,8 +3,8 @@
 The backend uses JWT, implemented in both cookies and bearer token to accomondate for generic API and browser based access
 
 ## Getting started
-npm install
-npm start
+	`npm install`
+	`npm start`
 
 ## Settings
 DB and password hashing are in config/db. By default they are:
